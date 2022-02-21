@@ -21,3 +21,10 @@ See also: Regulatory-risk-cryptocurrency
 Author: Xinwen Ni
 
 Submitted:  20 Feb 2022
+
+
+```
+
+![Picture6](Sector_number.png)
+
+
