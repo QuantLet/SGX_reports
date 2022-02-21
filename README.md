@@ -29,6 +29,8 @@ Submitted:  20 Feb 2022
 
 ![Picture6](Topic_number.png)
 
+![Picture6](Sector7_LeaderWord_1213_topic14_5.png)
+
 ![Picture6](H_distance_LW_Sectors_Average.png)
 
 ![Picture6](H_distance_LW_Sector_1_individual.png)
